@@ -42,16 +42,6 @@ The app will be available in your web browser.
 
 Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/rudrashisgorai/Certificate-app/issues) for open issues or open a new one.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Acknowledgments
-
-- Streamlit for interactive web app development.
-- Python Imaging Library (PIL) for image manipulation.
-- Plotly for visualizing the certificate.
-
 ## Contact
 
 Project Link: [https://github.com/rudrashisgorai/Certificate-app](https://github.com/rudrashisgorai/Certificate-app)
